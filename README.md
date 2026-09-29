@@ -27,7 +27,7 @@ We're building a map app that shows regular people in Canada how a wildfire woul
 
 ### Reason
 
-This project started as Smoke Signal, an app that warned people with asthma or COPD about wildfire smoke. Our professor liked it but wanted something less prediction based. He pointed us to WindNinja and Wildfire Analyst Pocket and asked what a Canadian version would look like. When we looked into it, we found that Canada already has the science and the data, but a cabin owner in northern Saskatchewan still has no simple way to check what a fire would do near their place today. We want to take the same science fire agencies use and make it something anyone can read.
+This project started as Smoke Signal, an app that warned people with asthma or COPD about wildfire smoke. After receiving some great feedback, we decided to build something less prediction-based. This led us to explore WindNinja and Wildfire Analyst Pocket and ask what a Canadian version would look like. When we looked into it, we found that Canada already has the science and the data, but a cabin owner in northern Saskatchewan still has no simple way to check what a fire would do near their place today. We want to take the same science fire agencies use and make it something anyone can read.
 
 ### Impact and Value
 
@@ -61,7 +61,7 @@ Right now, a cabin owner or farmer who wants to know the fire risk at their spot
     - The app sends a notification when the danger level changes or a new wildfire is detected nearby
 - Active fires
     - Wildfires burning right now show up on the map, from Canadian and NASA satellite data
-- What-if mode and trip planning (our professor's suggestion)
+- What-if mode and trip planning
     - Drag sliders to change the wind, temperature or dryness and watch the spread shape grow or shift
     - Add a trip (for example Calgary and then Banff). If it's a few days away the app uses the forecast. If it's weeks away it opens what-if mode instead
 - Fire history
@@ -146,7 +146,7 @@ September is done. October to December is our plan and will change as we go.
 
 September:
 
-- Pivoted from Smoke Signal to the Canadian wildfire app after feedback from our professor
+- Pivoted from Smoke Signal to the Canadian wildfire app after gathering feedback
 - Project ideation, competitor analysis, user analysis and business model analysis completed
 
 October:
