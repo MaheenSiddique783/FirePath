@@ -14,7 +14,7 @@ flowchart LR
 
     FP --> D1["1. Data pipeline"]
     FP --> D2["2. Fire behaviour engine"]
-    FP --> D3["3. Web app"]
+    FP --> D3["3. Mobile app"]
     FP --> D4["4. MVP 2 features"]
     FP --> D5["5. Project management and testing"]
 ```
