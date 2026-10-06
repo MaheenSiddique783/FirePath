@@ -46,7 +46,7 @@ FirePath: a wildfire behaviour map for the public, built on Canadian fire scienc
 
 - Scheduled data collection scripts for each source
 
-- Frontend: web app that works on phones and computers (to be confirmed by the team)
+- Frontend: mobile app 
 - Map library: Leaflet or MapLibre (to be chosen)
 - Backend: Node.js and Express
 - Fire engine: Python, using the official cffdrs package
