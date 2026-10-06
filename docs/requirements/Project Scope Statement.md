@@ -24,7 +24,7 @@ flowchart LR
 | 1. Data pipeline | Downloads government data on a schedule, cleans it and stores it |
 | 2. Fire behaviour engine | Runs the official Canadian fire behaviour code, draws the spread shapes and gives the danger level in plain language. Checked against the official cffdrs package and FBP Go |
 | 3. Web app | The map people tap, plus the backend, accounts, saved places and alerts |
-| 4. MVP 2 features | What-if mode, trip planning and fire history |
+| 4. MVP 2 features | What-if mode, verified fire reporting, news coverage and fire history |
 | 5. Project management and testing | Course documents, prototypes, user research and the Bazaar demo |
 
 ---
