@@ -64,17 +64,9 @@ MVP 1
 MVP 2
 
 - What-if mode with sliders for wind, temperature and dryness
-- Trip planning with forecasts for trips a few days away and what-if mode for trips further out
+- Manual verified fire reporting and news coverage
 - Fire history around any spot (this might move into MVP 1 since it reuses data we already collect)
 
-MVP 3
-
-- Cover all of Canada
-- Wind adjusted for hills and valleys using WindNinja, which is free and open source
-- Fire growth that changes as it crosses different vegetation and terrain, closer to Canada's professional [Prometheus](https://publications.gc.ca/collections/collection_2010/nrcan/Fo133-1-417-eng.pdf) model
-- Offline mode for cabins with no cell signal
-- French language support
-- Health specific smoke alerts, the original Smoke Signal idea
 
 ## Vlogs
 **COMING SOON** 
