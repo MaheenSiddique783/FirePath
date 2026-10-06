@@ -140,31 +140,5 @@ MVP 3
 - French language support
 - Health specific smoke alerts, the original Smoke Signal idea
 
-## Project Schedule
-
-September is done. October to December is our plan and will change as we go.
-
-September:
-
-- Pivoted from Smoke Signal to the Canadian wildfire app after gathering feedback
-- Project ideation, competitor analysis, user analysis and business model analysis completed
-
-October:
-
-- User interviews with cabin owners, a rural municipality and a volunteer fire department
-- Test calls to every data source
-- Class diagram and lo-fi completed
-
-November:
-
-- Daily data pipeline running
-- Fire equations checked against FBP Go and REDapp
-- Hi-fi completed
-- Demo at Bazaar day, replaying a real past fire day
-
-December:
-
-- MVP 1 completed
-
 ## Vlogs
 **COMING SOON** 
