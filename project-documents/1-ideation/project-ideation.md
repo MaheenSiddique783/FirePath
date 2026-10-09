@@ -43,7 +43,7 @@ How FirePath started, who it's for and what we think it needs to do. This is our
     * For the same inputs, our numbers have to match what FBP Go and REDapp give
 * User accounts with secure login, saved places and notifications
     * Each person sees only their own saved places
-* The map has to work on both phones and computers, and it should load quickly because it reads from our own stored copy of the data
+* The map has to work well on a phone, and it should load quickly because it reads from our own stored copy of the data
 * Honest safety messaging
     * The app says plainly that it isn't an evacuation tool
     * It links to official alerts

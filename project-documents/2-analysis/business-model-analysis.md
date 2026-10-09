@@ -29,7 +29,7 @@ An app that lets regular people in Canada tap any spot and see how a wildfire wo
 
 ### How it is offered
 
-* A web app that works on phones and computers, so people can check it at the cabin, on the farm or at the campsite
+* A mobile app, so people can check it at the cabin, on the farm or at the campsite
 * People would find it through search, social media and links from towns and parks
 
 ### Why we capture value
